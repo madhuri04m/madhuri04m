@@ -28,8 +28,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=madhuri04m&icon=5&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/Madhuri_2004) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
