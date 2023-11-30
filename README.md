@@ -1,7 +1,7 @@
 ### Hi there 👋Welocome To MY GITHUB
 ### I'm Madhuri Madineni
 # 💫 About Me:
-🌱 I’m currently learning Mern-Full Stack Development,Google Cloud Skills Boost<br><br>👨‍💻 All of my projects are available at https://linktr.ee/madhuri_21<br><br>💬 Ask me about GCCF,HTMl/CSS,Kubernets<br><br>📫 How to reach me madhurimadineni2004@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1VY6RrDhpjIw4ftNC06Twhea5of-SonUq/view?usp=sharing<br><br>⚡ Fun fact I think i am funny
+🌱 I’m currently learning Mern-Full Stack Development,Google Cloud Skills Boost<br><br>👨‍💻 All of my projects are available at https://linktr.ee/madhuri_21<br><br>💬 Ask me about GCCF,HTMl/CSS,Kubernets<br><br>📫 How to reach me madhurimadineni2004@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1ZwEJqLZ6AySnqN_5R2gSlC4vLK-rfcPE/view?usp=drive_link<br><br>⚡ Fun fact I think i am funny
 
 
 ## 🌐 Socials:
