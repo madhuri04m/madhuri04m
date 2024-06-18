@@ -1,4 +1,4 @@
-### Hi there 👋Welocome To MY GITHUB
+### Hi there 👋Welcome To MY GITHUB
 ### I'm Madhuri Madineni
 # 💫 About Me:
 🌱 A passionate learner and aspiring data professional <br><br>👨‍💻 All of my projects are available at https://madhuri04m.github.io/<br><br>💬 Ask me about Data Analysis and Turning Data into Insights<br><br>📫 How to reach me madhurimadineni2004@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1vLs516LY516JKebfL5GZmwVuTcqFxTTG/view?usp=drive_link<br><br>⚡ Fun fact I think i am funny
